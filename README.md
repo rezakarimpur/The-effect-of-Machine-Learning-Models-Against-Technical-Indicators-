@@ -1,6 +1,4 @@
 
-This repository contains the codebase developed as part of a postgraduate research project titled:
-"The Effectiveness of Machine Learning Models Against Technical Indicators and the Buy-and-Hold Strategy on Portfolio Analysis."
 
 The research compared two machine learning models, Random Forest and Deep Neural Networks, against traditional strategies like MACD, EMA, RSI, and Buy-and-Hold. The models were trained and tested using minute-level data from the Vanguard S&P 500 ETF (VOO), with a focus on real-world constraints such as trading turnover limits and risk-adjusted performance metrics.
 
